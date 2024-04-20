@@ -7,7 +7,7 @@ moveit_setup_assistant_config:
   package_settings:
     author_name: RO
     author_email: roshea@umd.edu
-    generated_timestamp: 1713238004
+    generated_timestamp: 1713576163
   control_xacro:
     command:
       - position
